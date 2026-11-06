@@ -213,4 +213,4 @@ Mantis is provided as a full free version, which includes all features and updat
 Start your journey to error-free web development today by downloading **Mantis** for free and unlock the full potential of your projects!
 
 ---
-**Last updated:** 2026-11-06 11:47:45 UTC
+**Last updated:** 2026-11-06 18:52:30 UTC
